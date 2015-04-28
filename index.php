@@ -65,8 +65,8 @@ if( isset($_POST) )
     {
     $o_vpnpasswort = trim(strip_tags ($_POST['vpnpasswort']));
       } else {
-       $generate = FALSE;
-       $o_vpnpasswort_m = 'class="missing" ';
+       //$generate = FALSE;
+       //$o_vpnpasswort_m = 'class="missing" ';
      }
 
     if(!empty($_POST['Dyndns']))
@@ -88,8 +88,8 @@ if( isset($_POST) )
     {
         $o_SharedSecret = trim(strip_tags ($_POST['SharedSecret']));
       } else {
-        $generate = FALSE;
-        $o_SharedSecret_m = 'class="missing" ';
+        //$generate = FALSE;
+        //$o_SharedSecret_m = 'class="missing" ';
     }
 
     if(!empty($_POST['gWlan1']))
