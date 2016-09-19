@@ -186,9 +186,10 @@ $html = <<< EOHTMLF
 <link rel="stylesheet" href="default.css">
 </head>
 <body>
-<h1>VPNonDemand Profile Generator for iOS v1.0.3.3</h1>
-<p>Diese Seite erstellt ein VPNonDemand Profil für euer iOS-Device</p>
+<h1>VPNonDemand Profile Generator for iOS v1.0.3.4</h1>
+<p>Diese Seite erstellt ein VPNonDemand Profil für euer iOS-Device. </p> <p>Diese Seite ist für die keinen eignen Webspace haben aber vorallem für mich als Proof of Concept und wenn ich selbst mal eins erstellen muss.</p> <p>Ich empfehle immer das selber hosten aber biete es den Leute hier an.</p>
 <p><a href="#FAQ">FAQ findet ihr unten</a></p>
+<p>Hier bitte zum selber hosten ist der Code auf <a href="https://github.com/ArnaudFeld/myVPNonDemandConfig">Github.</a></p>
 <p>Bitte gebt eure VPN-Einstellungen ein:</p>
 <p>Pflichteingaben sind <font color="white"><span style="background-color:orangered;">Rot</span></font> makiert!</p>
 <p>Die Erstellung des Profils läuft komplett im Browser ab. Es werden keine Daten auf dem Server gespeichert.</p>
